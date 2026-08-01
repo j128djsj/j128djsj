@@ -22,9 +22,9 @@ I am a Computer Science student at **Beijing Jiaotong University**, interested i
 
 ### 01 · 🎧 Speech Enhancement
 
-**[Lightweight speech enhancement with state-space model and depthwise separable convolution](https://doi.org/10.1016/j.dsp.2026.105987)**
+**[Lightweight speech enhancement with state-space model and depthwise separable convolution](https://github.com/j128djsj/Lightweight-Speech-Enhancement)**
 
-*Digital Signal Processing*, 2026 · **First Author · Published**
+*Digital Signal Processing*, 2026 · **First Author · Published** · [Paper](https://doi.org/10.1016/j.dsp.2026.105987) · [Code](https://github.com/j128djsj/Lightweight-Speech-Enhancement)
 
 A lightweight and robust speech enhancement framework combining state-space modeling with depthwise separable convolution.
 
