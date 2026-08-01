@@ -60,50 +60,36 @@ A dynamic noise-conditioned adaptation framework for robust speaker verification
 </tr>
 </table>
 
-## 🧠 Research Expertise
+## 📰 News & Updates
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="18%" align="center"><strong>NOW</strong></td>
+<td width="82%">
 
-### 🎙️ Speech Modeling
+**Exploring Full-Duplex Speech LLMs**
 
-- Full-duplex Speech LLMs
-- Speech enhancement
-- Speaker verification
-- Noise-robust speech representation
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Neural Architectures
-
-- State-space models
-- ECAPA-TDNN
-- Convolutional recurrent networks
-- Depthwise separable convolution
+Recently studying spoken language models capable of simultaneous listening and speaking.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="18%" align="center"><strong>2026</strong></td>
+<td width="82%">
 
-### 🔧 Adaptation & Efficiency
+**Interspeech 2026 · Oral Presentation**
 
-- LoRA and parameter-efficient adaptation
-- Hypernetwork-generated weights
-- Lightweight model design
-- Dynamic frame-level gating
+NoiseLoRA-SV was accepted for an **Oral Presentation** at Interspeech 2026.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="18%" align="center"><strong>FEB 2026</strong></td>
+<td width="82%">
 
-### 🎯 Learning Objectives
+**First-author Journal Paper Published**
 
-- Contrastive embedding distillation
-- Noise reconstruction
-- Perceptual spectral modeling
-- Speaker-discriminative learning
+Our lightweight speech enhancement work was published in *Digital Signal Processing*.
 
 </td>
 </tr>
