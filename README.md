@@ -25,52 +25,89 @@ I am a Computer Science student working on speech AI. My current research focuse
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🎧 Speech Enhancement
+### 01 · 🎧 Speech Enhancement
 
 **[Lightweight speech enhancement with state-space model and depthwise separable convolution](https://doi.org/10.1016/j.dsp.2026.105987)**
 
-*Digital Signal Processing*, 2026
+*Digital Signal Processing*, 2026 · **First Author · Published**
 
-**First Author · Published**
+A lightweight and robust speech enhancement framework combining state-space modeling with depthwise separable convolution.
 
-- Lightweight state-space architecture
-- Depthwise separable convolution
-- Multi-scale context modeling
-- Perceptual spectral compression
+**Key ideas:** Lightweight SSM · Depthwise separable convolution · ASPP multi-scale context · Auditory-inspired spectral compression
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
-### 🗣️ Speaker Verification
+### 02 · 🗣️ Speaker Verification
 
 **[NoiseLoRA-SV: Hierarchical Noise-Conditioned Adaptation with Embedding Distillation for Robust Speaker Verification](https://github.com/peter112231/NoiseLoRA-SV)**
 
-*Interspeech 2026*
+*Interspeech 2026* · **Co-first Author**
 
-**Co-first Author · Oral Presentation**
+<p align="center">
+<img src="https://img.shields.io/badge/INTERSPEECH%202026-ORAL%20PRESENTATION-F97316?style=for-the-badge" alt="Interspeech 2026 Oral Presentation" />
+</p>
 
-- Hierarchical noise-conditioned LoRA
-- Local temporal gating
-- Noise reconstruction
-- Clean-teacher embedding distillation
+A dynamic noise-conditioned adaptation framework for robust speaker verification under non-stationary and unseen noise.
+
+**Key ideas:** Hierarchical noise-conditioned LoRA · Hypernetwork adaptation · Local temporal gating · Contrastive embedding distillation
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Research Toolkit
+## 🧠 Research Expertise
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,linux,git,latex&theme=light" alt="Python, PyTorch, C++, Linux, Git, LaTeX" />
+### 🎙️ Speech Modeling
 
-<br/><br/>
+- Full-duplex Speech LLMs
+- Speech enhancement
+- Speaker verification
+- Noise-robust speech representation
 
-<sub>Python · PyTorch · C++ · Linux · Git · LaTeX</sub>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### ⚙️ Neural Architectures
+
+- State-space models
+- ECAPA-TDNN
+- Convolutional recurrent networks
+- Depthwise separable convolution
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Adaptation & Efficiency
+
+- LoRA and parameter-efficient adaptation
+- Hypernetwork-generated weights
+- Lightweight model design
+- Dynamic frame-level gating
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Learning Objectives
+
+- Contrastive embedding distillation
+- Noise reconstruction
+- Perceptual spectral modeling
+- Speaker-discriminative learning
+
+</td>
+</tr>
+</table>
 
 ---
 
