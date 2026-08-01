@@ -37,13 +37,15 @@ A lightweight and robust speech enhancement framework combining state-space mode
 
 ### 02 · 🗣️ Speaker Verification
 
-**[NoiseLoRA-SV: Hierarchical Noise-Conditioned Adaptation with Embedding Distillation for Robust Speaker Verification](https://github.com/peter112231/NoiseLoRA-SV)**
+**[NoiseLoRA-SV: Hierarchical Noise-Conditioned Adaptation with Embedding Distillation for Robust Speaker Verification](https://github.com/j128djsj/NoiseLoRA-SV)**
 
-*Interspeech 2026* · **Co-first Author**
+*Interspeech 2026* · **Co-first Author** · [Code](https://github.com/j128djsj/NoiseLoRA-SV)
 
 <p align="center">
 <img src="https://img.shields.io/badge/INTERSPEECH%202026-ORAL%20PRESENTATION-F97316?style=for-the-badge" alt="Interspeech 2026 Oral Presentation" />
 </p>
+
+*Official online proceedings link pending — the conference has not yet taken place.*
 
 A dynamic noise-conditioned adaptation framework for robust speaker verification under non-stationary and unseen noise.
 
