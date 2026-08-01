@@ -1,26 +1,22 @@
 <div align="center">
 
-<h1 align="center">Speech AI Research</h1>
+## 🎙️ Current Focus
 
-<p align="center"><strong>Speech Enhancement · Speaker Verification · Speech Large Language Models</strong></p>
+### Full-Duplex Speech Large Language Models
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Speech%20LLMs-6366F1?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Speech LLMs" />
-  <img src="https://img.shields.io/badge/DSP-First%20Author-0EA5E9?style=for-the-badge" alt="Digital Signal Processing" />
-  <img src="https://img.shields.io/badge/Interspeech%202026-Oral%20Presentation-A855F7?style=for-the-badge" alt="Interspeech 2026 Oral Presentation" />
-</p>
+*Exploring natural, real-time spoken interaction.*
 
 </div>
 
 ## 👋 About Me
 
-I am a Computer Science student at **Beijing Jiaotong University**. My work focuses on robust speech perception, spanning **speech enhancement** and **speaker verification**. I am currently extending this foundation toward **Speech Large Language Models (Speech LLMs)**.
+I am a Computer Science student at **Beijing Jiaotong University**. My work focuses on robust speech perception, spanning **speech enhancement** and **speaker verification**. I am currently researching **full-duplex Speech Large Language Models (Speech LLMs)** for natural, real-time spoken interaction.
 
-- 🔭 Exploring speech-language foundation models and intelligent spoken interaction
+- 🔭 Recently exploring full-duplex Speech LLMs and real-time spoken interaction
 - 🎓 Interested in pursuing a PhD in Speech AI
 - 🌏 Open to research discussions and collaboration
 
-## 🔬 Research Focus
+## 🔬 Research Foundations
 
 <table>
 <tr>
@@ -47,17 +43,7 @@ I am a Computer Science student at **Beijing Jiaotong University**. My work focu
 </tr>
 </table>
 
-<div align="center">
-
-<sub>Two complementary research directions supporting richer speech understanding</sub>
-
-### ⬇️
-
-## 🤖 Speech Large Language Models
-
-**Unified speech perception · Speech-language reasoning · Natural spoken interaction**
-
-</div>
+<p align="center"><em>These complementary foundations support my current exploration of full-duplex Speech LLMs.</em></p>
 
 ## 📚 Selected Research
 
