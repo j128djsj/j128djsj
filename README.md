@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:A855F7&height=220&section=header&text=Chen%20Jiang&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Speech%20AI%20Researcher&descAlignY=58&descSize=21" alt="Chen Jiang — Speech AI Researcher" />
+<h1 align="center">Speech AI Research</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Speech+Enhancement+%C2%B7+Speaker+Verification;Exploring+Speech+Large+Language+Models;Building+robust+and+intelligent+speech+systems" alt="Research interests" />
+<p align="center"><strong>Speech Enhancement · Speaker Verification · Speech Large Language Models</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Speech%20LLMs-6366F1?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Speech LLMs" />
   <img src="https://img.shields.io/badge/DSP-First%20Author-0EA5E9?style=for-the-badge" alt="Digital Signal Processing" />
-  <img src="https://img.shields.io/badge/Interspeech%202026-Co--first%20Author-A855F7?style=for-the-badge" alt="Interspeech 2026" />
+  <img src="https://img.shields.io/badge/Interspeech%202026-Oral%20Presentation-A855F7?style=for-the-badge" alt="Interspeech 2026 Oral Presentation" />
 </p>
 
 </div>
@@ -76,7 +76,7 @@ I am a Computer Science student at **Beijing Jiaotong University**. My work focu
 
 - **Venue:** *Interspeech 2026*
 - **Role:** Co-first Author
-- **Status:** Accepted
+- **Status:** Accepted (Oral Presentation)
 - **Highlights:** Global noise-aware LoRA generation, local gating, noise reconstruction, and clean-teacher distillation
 
 ## 🛠️ Research Toolkit
