@@ -2,18 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/j128djsj/j128djsj/main/assets/speech-ai-banner.svg" width="100%" alt="Full-Duplex Speech LLMs animated waveform banner" />
 
-<br/>
-
-**Computer Science · Beijing Jiaotong University**
-
 </div>
 
 ## 👋 About Me
 
-I am a Computer Science student working on speech AI. My current research focuses on **full-duplex Speech Large Language Models (Speech LLMs)**. Previously, I worked on **lightweight speech enhancement** and **noise-robust speaker verification**.
-
-- 🎓 Interested in pursuing a PhD in Speech AI
-- 🌏 Open to research discussions and collaboration
+I am a Computer Science student at **Beijing Jiaotong University**, interested in pursuing a PhD in Speech AI and open to research discussions and collaboration.
 
 ## 🔭 Current Research
 
@@ -59,46 +52,3 @@ A dynamic noise-conditioned adaptation framework for robust speaker verification
 </td>
 </tr>
 </table>
-
-## 📰 News & Updates
-
-<table>
-<tr>
-<td width="18%" align="center"><strong>NOW</strong></td>
-<td width="82%">
-
-**Exploring Full-Duplex Speech LLMs**
-
-Recently studying spoken language models capable of simultaneous listening and speaking.
-
-</td>
-</tr>
-<tr>
-<td width="18%" align="center"><strong>2026</strong></td>
-<td width="82%">
-
-**Interspeech 2026 · Oral Presentation**
-
-NoiseLoRA-SV was accepted for an **Oral Presentation** at Interspeech 2026.
-
-</td>
-</tr>
-<tr>
-<td width="18%" align="center"><strong>FEB 2026</strong></td>
-<td width="82%">
-
-**First-author Journal Paper Published**
-
-Our lightweight speech enhancement work was published in *Digital Signal Processing*.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-**From robust speech processing to natural full-duplex spoken intelligence.**
-
-</div>
