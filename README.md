@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am a Computer Science student at **Beijing Jiaotong University**, with research experience at **Fudan University**. My work focuses on robust speech perception, spanning **speech enhancement** and **speaker verification**. I am currently extending this foundation toward **Speech Large Language Models (Speech LLMs)**.
+I am a Computer Science student at **Beijing Jiaotong University**. My work focuses on robust speech perception, spanning **speech enhancement** and **speaker verification**. I am currently extending this foundation toward **Speech Large Language Models (Speech LLMs)**.
 
 - 🔭 Exploring speech-language foundation models and intelligent spoken interaction
 - 🎓 Interested in pursuing a PhD in Speech AI
