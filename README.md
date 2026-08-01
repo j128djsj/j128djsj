@@ -12,7 +12,7 @@
 
 I am a Computer Science student at **Beijing Jiaotong University**. My work focuses on robust speech perception, spanning **speech enhancement** and **speaker verification**. I am currently researching **full-duplex Speech Large Language Models (Speech LLMs)** for natural, real-time spoken interaction.
 
-- 🔭 Recently exploring full-duplex Speech LLMs and real-time spoken interaction
+- 🔭 Recently exploring full-duplex Speech LLMs
 - 🎓 Interested in pursuing a PhD in Speech AI
 - 🌏 Open to research discussions and collaboration
 
